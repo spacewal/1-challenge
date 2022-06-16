@@ -15,6 +15,8 @@ I went the extra mile and improved their codebase for long-term sustainability. 
 <img src="./images/Screen Shot 2022-06-15 at 8.26.45 PM.png" />
 <img src="./images/Screen Shot 2022-06-15 at 8.26.55 PM.png" />
 
+![image](/assets/images/Screen%20Shot%201.png)
+
 ## User Story
 
 ```
