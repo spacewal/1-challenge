@@ -6,7 +6,7 @@ For this week's Challenge, my task was to refactor an existing webpage to make i
 
 I went the extra mile and improved their codebase for long-term sustainability. Ensured that all links are functioning correctly and cleaned up the CSS to make it more efficient, such as by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-<img src="./images/assests/Screen Shot 1.png" />
+<img src="./assests/images/Screen Shot 1.png" />
 <img src="./images/Screen Shot 2022-06-15 at 8.25.41 PM.png" />
 <img src="./images/Screen Shot 2022-06-15 at 8.25.53 PM.png" />
 <img src="./images/Screen Shot 2022-06-15 at 8.26.05 PM.png" />
